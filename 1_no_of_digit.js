@@ -1,3 +1,4 @@
+//WAP to find no of digits in a number 
 let n = 45345;
 let rev = 0;
 let count = 0
